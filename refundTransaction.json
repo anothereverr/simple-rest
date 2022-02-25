@@ -1,0 +1,74 @@
+{
+    "transaction": {
+      "header": {
+        "RetailStoreID": "3",
+        "WorkstationID": "13",
+        "NroTransaccionEPA": "74",
+        "EndDateTime": "2022-02-01 03:39:07.000000",
+        "BeginDateTime": "2022-02-01 03:39:07.000000",
+        "BusinessDayDate": "2022-02-01 03:39:07.000000",
+        "OperatorID": "288",
+        "CurrencyCode": "CRC",
+        "TransactionGrossAmount": "25000.00",
+        "CodigoBarras": "00320220201070000074",
+        "TipoDocumentoUS2": "2",
+        "TipoTransaccionUS2": "1",
+        "NumeroDocFiscal": "200070010000000051",
+        "ClaveNumerica": "50601022200310135427100200070010000000048399704263",
+        "InformacionAdicional": "Informacion adicional del cliente",
+        "CorreoAdicional": "correo@adicional.com",
+        "AyudarEsSencillo": "100.10"
+      },
+      "changeRate": {
+        "TipoTarifa": "02",
+        "OpcionTipoTarifa": ""
+      },
+      "exoneration": {
+        "TipoDocumento": "02",
+        "NumeroDocumento": "517001975308",
+        "NombreInstitucion": "MINISTERIO DE RELACIONES EXTERIORES Y CULTO",
+        "Tasa": "13.00",
+        "FechaHora": "2022-02-03 00:00:00.000000"
+      },
+      "articles": [
+        {
+          "code": "2627604",
+          "descripcion": "BARN POLIURE MT 1G",
+          "saleUnit": "Pieza",
+          "offer": "DESCUENTO EMPLEADO",
+          "precioOriginalNetoUnitario": "23849.56000",
+          "montoivaOriginalUnitario": "3100.44280",
+          "montoNetoRebajaUnitario": "22123.89000",
+          "montoIVARebajaUnitario": "2876.10570",
+          "montoIvaCambioTarifaUnitario": "238.49560",
+          "exento": "0",
+          "tasaIvaOriginal": "13.00",
+          "condicionEntregaDespacho": "0.00",
+          "condicionEntregaClienteRetira": "0.00",
+          "condicionEntregaDomicilio": "0.00",
+          "condicionEntregaCaja": "10.00",
+          "indicadorTasaIvaOriginal": "G1",
+          "discountType": "CP",
+          "cantidad": "10.00",
+          "montoExoneracionUnitario": "2876.10570"
+        }
+      ],
+      "customer": {
+        "idCustomer": "0109600029",
+        "nombre": "BERNARDO VARGASS",
+        "email": "",
+        "documentType": "CDF",
+        "receiverCustomerType": "1000",
+        "retentionAgent": "N",
+        "isExonerated": "N",
+        "isDiplomatic": "N",
+        "isBigCustomer": "N",
+        "businessUnit": "N",
+        "address": "CASA 123",
+        "countryCode": "CR",
+        "territoryCode": "CR-SJ",
+        "cityCode": "1"
+      },
+      "payments": []
+    }
+  }

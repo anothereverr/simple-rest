@@ -1,0 +1,71 @@
+{
+    "transaction": {
+        "header": {
+            "RetailStoreID": "2",
+            "WorkstationID": "12",
+            "NroTransaccionEPA": "629736",
+            "EndDateTime": "2018-08-06 16:49:04.000000",
+            "BeginDateTime": "2018-08-06 16:49:04.000000",
+            "BusinessDayDate": "2018-08-06 16:49:04.000000",
+            "OperatorID": "483",
+            "CurrencyCode": "CRC",
+            "TransactionGrossAmount": "620000.00",
+            "CodigoBarras": "00220180806012629736",
+            "TipoDocumentoUS2": "2",
+            "TipoTransaccionUS2": "1",
+            "NumeroDocFiscal": "629736",
+            "ClaveNumerica": "",
+            "InformacionAdicional": null,
+            "CorreoAdicional": null,
+            "AyudarEsSencillo": "0.00"
+        },
+        "changeRate": null,
+        "exoneration": null,
+        "articles": [
+            {
+                "code": "2627604",
+                "descripcion": "CEMENTO HOLCIM 50 KG",
+                "saleUnit": "Pieza",
+                "offer": null,
+                "precioOriginalNetoUnitario": "5659.29000",
+                "montoivaOriginalUnitario": "735.70770",
+                "montoNetoRebajaUnitario": "5486.73000",
+                "montoIVARebajaUnitario": "713.27490",
+                "montoIvaCambioTarifaUnitario": "0.00000",
+                "exento": "0",
+                "tasaIvaOriginal": "13.00",
+                "condicionEntregaDespacho": "100.00",
+                "condicionEntregaClienteRetira": "0.00",
+                "condicionEntregaDomicilio": "0.00",
+                "condicionEntregaCaja": "0.00",
+                "indicadorTasaIvaOriginal": "G1",
+                "discountType": "CP",
+                "cantidad": "100.00",
+                "montoExoneracionUnitario": "0.0000"
+            }
+        ],
+        "customer": {
+            "idCustomer": "3007045755",
+            "nombre": "HOSPICIO DE HUERFANOS DE CARTAGO Y COVAO",
+            "email": "",
+            "documentType": "CDJ",
+            "receiverCustomerType": "1003",
+            "retentionAgent": "S",
+            "isExonerated": "N",
+            "isDiplomatic": "N",
+            "isBigCustomer": "N",
+            "businessUnit": "N",
+            "address": "CARTAGO",
+            "countryCode": "CR",
+            "territoryCode": "CR-SJ",
+            "cityCode": "1"
+        },
+        "payments": [
+            {
+                "tenderID": "64",
+                "amount": "620000.00",
+                "description": "RET.ISR"
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "simple-rest-api",
+  "version": "1.0.0",
+  "description": "A simple rest api to use as entry point for other projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "disguiseddev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
